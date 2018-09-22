@@ -1,5 +1,6 @@
-[
-   {
+{
+  "symbols":[ 
+  {
     "acct_name": "AAA",
 	"acct_number": "0029",
 	"a_cash": "39160334.42",
@@ -43,4 +44,5 @@
 	"change_percent": "0.08",
 	"change_value":"8916.69"
 	}
-  ]
+	]
+  }
