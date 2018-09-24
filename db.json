@@ -1,54 +1,54 @@
 {
   "symbols":[ 
  {
-     "acct_name": "AAA",
-     "acct_number": 29,
-     "a_cash": "39160334.42",
-     "change":"loss",
-     "change_percent": "0.07",
-     "change_value":"31435.87"
-     },
-     
-     {
-     "acct_name": "IRA",
-     "acct_number": 146,
-     "a_cash": "15884302.39",
-     "change":"gain",
-     "change_percent": "0.03",
-     "change_value":"7430.83"
-     },
-    
+      "acct_name": "AAA",
+      "acct_number": 29,
+      "a_cash": 39160334.42,
+      "change": "loss",
+      "change_percent": 0.07,
+      "change_value": 31435.87
+    },
+
     {
-     "acct_name": "AAA",
-     "acct_number": 1812,
-     "a_cash": "2010926.10",
-     "change":"gain",
-     "change_percent": "0.21",
-     "change_value":"38881.63"
-     },
-     {
-     "acct_name": "REG",
-     "acct_number": 2019,
-     "a_cash": "13465679.34",
-     "change":"none",
-     "change_percent": "0.00",
-     "change_value":"00.00"
-     },
-     {
-     "acct_name": "AAA",
-     "acct_number": 3810,
-     "a_cash": "10050054.07",
-     "change":"gain",
-     "change_percent": "0.07",
-     "change_value":"8916.69"
-     },
-     {
-     "acct_name": "IRA",
-     "acct_number": 5200,
-     "a_cash": "5763.36",
-     "change":"loss",
-     "change_percent": "0.08",
-     "change_value":"8916.69"
-     }
+      "acct_name": "IRA",
+      "acct_number": 146,
+      "a_cash": 15884302.39,
+      "change": "gain",
+      "change_percent": 0.03,
+      "change_value": 7430.83
+    },
+
+    {
+      "acct_name": "AAA",
+      "acct_number": 1812,
+      "a_cash": 2010926.10,
+      "change": "gain",
+      "change_percent": 0.21,
+      "change_value": 38881.63
+    },
+    {
+      "acct_name": "REG",
+      "acct_number": 2019,
+      "a_cash": 13465679.34,
+      "change": "none",
+      "change_percent": 0.00,
+      "change_value": 0.00
+    },
+    {
+      "acct_name": "AAA",
+      "acct_number": 3810,
+      "a_cash": 10050054.07,
+      "change": "gain",
+      "change_percent": 0.07,
+      "change_value": 8916.69
+    },
+    {
+      "acct_name": "IRA",
+      "acct_number": 5200,
+      "a_cash": 5763.36,
+      "change": "loss",
+      "change_percent": 0.08,
+      "change_value": 8916.69
+    }
 	]
   }
